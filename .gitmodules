@@ -4,6 +4,3 @@
 [submodule "Chapter-4/audiofile-cli"]
 	path = Chapter-4/audiofile-cli
 	url = git@github.com:marianina8/audiofile-cli.git
-[submodule "Chapter-6"]
-	path = Chapter-6
-	url = https://github.com/marianina8/Chapter-6
