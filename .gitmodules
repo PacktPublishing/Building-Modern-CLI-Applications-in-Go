@@ -1,9 +1,9 @@
 [submodule "Chapter-3/audiofile"]
 	path = Chapter-3/audiofile
 	url = https://github.com/marianina8/audiofile
-[submodule "Chapter-4/audiofile-cli"]
-	path = Chapter-4/audiofile-cli
-	url = git@github.com:marianina8/audiofile-cli.git
+[submodule "Chapter-4/Chapter-4"]
+	path = Chapter-4/Chapter-4
+	url = https://github.com/marianina8/Chapter-4
 [submodule "Chapter-6/Chapter-6"]
 	path = Chapter-6/Chapter-6
 	url = https://github.com/marianina8/Chapter-6
