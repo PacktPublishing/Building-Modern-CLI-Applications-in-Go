@@ -18,3 +18,10 @@
 [submodule "Chapter-2/Chapter-2"]
 	path = Chapter-2/Chapter-2
 	url = https://github.com/marianina8/Chapter-2
+[submodule "Chapter-7/Chapter-7"]
+	path = Chapter-7/Chapter-7
+	url = https://github.com/marianina8/Chapter-7
+[submodule "Chapter-7/audiofile"]
+	path = Chapter-7/audiofile
+	url = https://github.com/marianina8/audiofile
+	branch = Chapter-7
