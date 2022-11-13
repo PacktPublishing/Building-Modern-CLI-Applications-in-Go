@@ -32,3 +32,10 @@
 	path = Chapter-8/audiofile
 	url = https://github.com/marianina8/audiofile
 	branch = Chapter-8
+[submodule "Chapter-9/Chapter-9"]
+	path = Chapter-9/Chapter-9
+	url = https://github.com/marianina8/Chapter-9
+[submodule "Chapter-9/audiofile"]
+	path = Chapter-9/audiofile
+	url = https://github.com/marianina8/audiofile
+	branch = Chapter-9
