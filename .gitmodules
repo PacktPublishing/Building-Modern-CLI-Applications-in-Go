@@ -1,6 +1,3 @@
-[submodule "Chapter-3/audiofile"]
-	path = Chapter-3/audiofile
-	url = https://github.com/marianina8/audiofile
 [submodule "Chapter-4/Chapter-4"]
 	path = Chapter-4/Chapter-4
 	url = https://github.com/marianina8/Chapter-4
@@ -64,3 +61,7 @@
 [submodule "Chapter-4/Chapter-4-Demo"]
 	path = Chapter-4/Chapter-4-Demo
 	url = https://github.com/marianina8/Chapter-4-Demo/
+[submodule "Chapter-3/audiofile"]
+	path = Chapter-3/audiofile
+	url = https://github.com/marianina8/audiofile
+	branch = main
