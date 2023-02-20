@@ -1,0 +1,13 @@
+# github.com/dhowden/tag v0.0.0-20201120070457-d52dcb253c63
+## explicit
+github.com/dhowden/tag
+# github.com/google/uuid v1.3.0
+## explicit
+github.com/google/uuid
+# github.com/inconshreveable/mousetrap v1.0.0
+github.com/inconshreveable/mousetrap
+# github.com/spf13/cobra v1.5.0
+## explicit
+github.com/spf13/cobra
+# github.com/spf13/pflag v1.0.5
+github.com/spf13/pflag
