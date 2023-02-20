@@ -1,0 +1,15 @@
+HACK THE PLANET
+HELLO WORLD
+executable failed to resolve
+successfully counted the letters of "four" as 4
+letter count:  4
+successfully counted the letters of "four" as 4
+letter count:  4
+stdout --> successfully counted the letters of "four" as 4
+
+letter count:  4
+combined stderr + stdout --> ****
+this is where the errors go
+successfully counted the letters of "four" as 4
+***
+letter count:  4
