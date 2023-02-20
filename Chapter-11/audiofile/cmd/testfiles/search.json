@@ -1,0 +1,22 @@
+[
+    {
+        "Id": "6ded7642-5ddf-4865-af4e-91c34dd31f6b",
+        "Path": "/Users/mmontagnino/audiofile/6ded7642-5ddf-4865-af4e-91c34dd31f6b/glacier.mp3",
+        "Metadata": {
+            "tags": {
+                "title": "Glacier",
+                "album": "Music for the Sleepy Traveler",
+                "artist": "SalmonLikeTheFish",
+                "album_artist": "SalmonLikeTheFish",
+                "composer": "",
+                "genre": "Instrumental",
+                "year": 0,
+                "lyrics": "",
+                "comment": "URL: http://freemusicarchive.org/music/SalmonLikeTheFish/Music_for_the_Sleepy_Traveler/03_-_Glacier\r\nComments: http://freemusicarchive.org/\r\nCurator: ccCommunity\r\nCopyright: Attribution-NonCommercial-ShareAlike: http://creativecommons.org/licenses/by-nc-sa/4.0/"
+            },
+            "transcript": ""
+        },
+        "Status": "Complete",
+        "Error": null
+    }
+]

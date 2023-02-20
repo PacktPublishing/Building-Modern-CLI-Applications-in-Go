@@ -1,0 +1,13 @@
+{
+    "api": {
+        "logLevel": "info",
+        "port": 80,
+        "logging": {
+            "level": "debug",
+            "encoding": "json",
+            "outputPaths": [
+                "/tmp/log/audiofile-api.json"
+            ]
+        }
+    }
+}
