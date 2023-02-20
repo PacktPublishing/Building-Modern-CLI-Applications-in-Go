@@ -1,0 +1,20 @@
+{
+    "Id": "0528d6e7-78cd-4e96-bcda-06f6ed1233c1",
+    "Path": "/Users/mmontagnino/audiofile/0528d6e7-78cd-4e96-bcda-06f6ed1233c1/dub-back.mp3",
+    "Metadata": {
+        "tags": {
+            "title": "Test title",
+            "album": "",
+            "artist": "",
+            "album_artist": "",
+            "composer": "",
+            "genre": "",
+            "year": 0,
+            "lyrics": "",
+            "comment": ""
+        },
+        "transcript": ""
+    },
+    "Status": "Complete",
+    "Error": null
+}

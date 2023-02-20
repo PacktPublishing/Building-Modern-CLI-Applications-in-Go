@@ -1,0 +1,17 @@
+version: '3'
+services:
+  cli:
+    build:
+        context: .
+        dockerfile: cli.Dockerfile
+    image: audiofile:cli
+    network_mode: host
+    depends_on:
+      - api
+  api:
+    build:
+        context: .
+        dockerfile: api.Dockerfile
+    image: audiofile:api
+    ports:
+      - "80:80"
