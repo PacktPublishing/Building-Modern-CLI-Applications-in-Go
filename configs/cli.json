@@ -1,0 +1,6 @@
+{
+    "cli": {
+        "hostname": "localhost", 
+        "port": 8000
+    }
+}
