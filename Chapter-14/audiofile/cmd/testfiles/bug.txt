@@ -1,0 +1,11 @@
+Usage:
+  audiofile bug [flags]
+
+Examples:
+audiofile bug
+
+Flags:
+  -h, --help   help for bug
+
+Global Flags:
+  -v, --verbose   verbose
