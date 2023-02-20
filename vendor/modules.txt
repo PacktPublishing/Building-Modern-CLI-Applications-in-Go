@@ -1,0 +1,264 @@
+# atomicgo.dev/cursor v0.1.1
+## explicit; go 1.15
+atomicgo.dev/cursor
+# atomicgo.dev/keyboard v0.2.8
+## explicit; go 1.15
+atomicgo.dev/keyboard
+atomicgo.dev/keyboard/internal
+atomicgo.dev/keyboard/keys
+# github.com/AlecAivazis/survey/v2 v2.3.6
+## explicit; go 1.13
+github.com/AlecAivazis/survey/v2
+github.com/AlecAivazis/survey/v2/core
+github.com/AlecAivazis/survey/v2/terminal
+# github.com/containerd/console v1.0.3
+## explicit; go 1.13
+github.com/containerd/console
+# github.com/cpuguy83/go-md2man/v2 v2.0.2
+## explicit; go 1.11
+github.com/cpuguy83/go-md2man/v2/md2man
+# github.com/dhowden/tag v0.0.0-20201120070457-d52dcb253c63
+## explicit
+github.com/dhowden/tag
+# github.com/fatih/color v1.13.0
+## explicit; go 1.13
+github.com/fatih/color
+# github.com/fsnotify/fsnotify v1.5.4
+## explicit; go 1.16
+github.com/fsnotify/fsnotify
+# github.com/gdamore/encoding v1.0.0
+## explicit; go 1.9
+github.com/gdamore/encoding
+# github.com/gdamore/tcell/v2 v2.5.1
+## explicit; go 1.12
+github.com/gdamore/tcell/v2
+github.com/gdamore/tcell/v2/encoding
+github.com/gdamore/tcell/v2/terminfo
+github.com/gdamore/tcell/v2/terminfo/a/aixterm
+github.com/gdamore/tcell/v2/terminfo/a/alacritty
+github.com/gdamore/tcell/v2/terminfo/a/ansi
+github.com/gdamore/tcell/v2/terminfo/b/beterm
+github.com/gdamore/tcell/v2/terminfo/base
+github.com/gdamore/tcell/v2/terminfo/c/cygwin
+github.com/gdamore/tcell/v2/terminfo/d/dtterm
+github.com/gdamore/tcell/v2/terminfo/dynamic
+github.com/gdamore/tcell/v2/terminfo/e/emacs
+github.com/gdamore/tcell/v2/terminfo/extended
+github.com/gdamore/tcell/v2/terminfo/f/foot
+github.com/gdamore/tcell/v2/terminfo/g/gnome
+github.com/gdamore/tcell/v2/terminfo/h/hpterm
+github.com/gdamore/tcell/v2/terminfo/k/konsole
+github.com/gdamore/tcell/v2/terminfo/k/kterm
+github.com/gdamore/tcell/v2/terminfo/l/linux
+github.com/gdamore/tcell/v2/terminfo/p/pcansi
+github.com/gdamore/tcell/v2/terminfo/r/rxvt
+github.com/gdamore/tcell/v2/terminfo/s/screen
+github.com/gdamore/tcell/v2/terminfo/s/simpleterm
+github.com/gdamore/tcell/v2/terminfo/s/sun
+github.com/gdamore/tcell/v2/terminfo/t/termite
+github.com/gdamore/tcell/v2/terminfo/t/tmux
+github.com/gdamore/tcell/v2/terminfo/v/vt100
+github.com/gdamore/tcell/v2/terminfo/v/vt102
+github.com/gdamore/tcell/v2/terminfo/v/vt220
+github.com/gdamore/tcell/v2/terminfo/v/vt320
+github.com/gdamore/tcell/v2/terminfo/v/vt400
+github.com/gdamore/tcell/v2/terminfo/v/vt420
+github.com/gdamore/tcell/v2/terminfo/v/vt52
+github.com/gdamore/tcell/v2/terminfo/w/wy50
+github.com/gdamore/tcell/v2/terminfo/w/wy60
+github.com/gdamore/tcell/v2/terminfo/w/wy99_ansi
+github.com/gdamore/tcell/v2/terminfo/x/xfce
+github.com/gdamore/tcell/v2/terminfo/x/xterm
+github.com/gdamore/tcell/v2/terminfo/x/xterm_kitty
+github.com/gdamore/tcell/v2/terminfo/x/xterm_termite
+# github.com/google/uuid v1.3.0
+## explicit
+github.com/google/uuid
+# github.com/gookit/color v1.5.2
+## explicit; go 1.16
+github.com/gookit/color
+# github.com/hashicorp/hcl v1.0.0
+## explicit
+github.com/hashicorp/hcl
+github.com/hashicorp/hcl/hcl/ast
+github.com/hashicorp/hcl/hcl/parser
+github.com/hashicorp/hcl/hcl/printer
+github.com/hashicorp/hcl/hcl/scanner
+github.com/hashicorp/hcl/hcl/strconv
+github.com/hashicorp/hcl/hcl/token
+github.com/hashicorp/hcl/json/parser
+github.com/hashicorp/hcl/json/scanner
+github.com/hashicorp/hcl/json/token
+# github.com/inconshreveable/mousetrap v1.0.1
+## explicit; go 1.18
+github.com/inconshreveable/mousetrap
+# github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
+## explicit
+github.com/kballard/go-shellquote
+# github.com/lithammer/fuzzysearch v1.1.5
+## explicit; go 1.15
+github.com/lithammer/fuzzysearch/fuzzy
+# github.com/lucasb-eyer/go-colorful v1.2.0
+## explicit; go 1.12
+github.com/lucasb-eyer/go-colorful
+# github.com/magiconair/properties v1.8.6
+## explicit; go 1.13
+github.com/magiconair/properties
+# github.com/mattn/go-colorable v0.1.12
+## explicit; go 1.13
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.14
+## explicit; go 1.12
+github.com/mattn/go-isatty
+# github.com/mattn/go-runewidth v0.0.14
+## explicit; go 1.9
+github.com/mattn/go-runewidth
+# github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b
+## explicit
+github.com/mgutz/ansi
+# github.com/mitchellh/go-ps v1.0.0
+## explicit; go 1.13
+github.com/mitchellh/go-ps
+# github.com/mitchellh/mapstructure v1.5.0
+## explicit; go 1.14
+github.com/mitchellh/mapstructure
+# github.com/mum4k/termdash v0.17.0
+## explicit; go 1.17
+github.com/mum4k/termdash
+github.com/mum4k/termdash/align
+github.com/mum4k/termdash/cell
+github.com/mum4k/termdash/container
+github.com/mum4k/termdash/keyboard
+github.com/mum4k/termdash/linestyle
+github.com/mum4k/termdash/mouse
+github.com/mum4k/termdash/private/alignfor
+github.com/mum4k/termdash/private/area
+github.com/mum4k/termdash/private/attrrange
+github.com/mum4k/termdash/private/button
+github.com/mum4k/termdash/private/canvas
+github.com/mum4k/termdash/private/canvas/braille
+github.com/mum4k/termdash/private/canvas/buffer
+github.com/mum4k/termdash/private/draw
+github.com/mum4k/termdash/private/event
+github.com/mum4k/termdash/private/event/eventqueue
+github.com/mum4k/termdash/private/numbers
+github.com/mum4k/termdash/private/numbers/trig
+github.com/mum4k/termdash/private/runewidth
+github.com/mum4k/termdash/private/segdisp
+github.com/mum4k/termdash/private/segdisp/dotseg
+github.com/mum4k/termdash/private/segdisp/segment
+github.com/mum4k/termdash/private/segdisp/sixteen
+github.com/mum4k/termdash/private/wrap
+github.com/mum4k/termdash/terminal/tcell
+github.com/mum4k/termdash/terminal/terminalapi
+github.com/mum4k/termdash/widgetapi
+github.com/mum4k/termdash/widgets/button
+github.com/mum4k/termdash/widgets/segmentdisplay
+github.com/mum4k/termdash/widgets/text
+github.com/mum4k/termdash/widgets/textinput
+# github.com/pelletier/go-toml v1.9.5
+## explicit; go 1.12
+github.com/pelletier/go-toml
+# github.com/pelletier/go-toml/v2 v2.0.5
+## explicit; go 1.16
+github.com/pelletier/go-toml/v2
+github.com/pelletier/go-toml/v2/internal/ast
+github.com/pelletier/go-toml/v2/internal/danger
+github.com/pelletier/go-toml/v2/internal/tracker
+# github.com/pterm/pterm v0.12.49
+## explicit; go 1.18
+github.com/pterm/pterm
+github.com/pterm/pterm/internal
+# github.com/rivo/uniseg v0.4.3
+## explicit; go 1.18
+github.com/rivo/uniseg
+# github.com/russross/blackfriday/v2 v2.1.0
+## explicit
+github.com/russross/blackfriday/v2
+# github.com/spf13/afero v1.8.2
+## explicit; go 1.13
+github.com/spf13/afero
+github.com/spf13/afero/mem
+# github.com/spf13/cast v1.5.0
+## explicit; go 1.18
+github.com/spf13/cast
+# github.com/spf13/cobra v1.6.1
+## explicit; go 1.15
+github.com/spf13/cobra
+github.com/spf13/cobra/doc
+# github.com/spf13/jwalterweatherman v1.1.0
+## explicit
+github.com/spf13/jwalterweatherman
+# github.com/spf13/pflag v1.0.5
+## explicit; go 1.12
+github.com/spf13/pflag
+# github.com/spf13/viper v1.13.0
+## explicit; go 1.17
+github.com/spf13/viper
+github.com/spf13/viper/internal/encoding
+github.com/spf13/viper/internal/encoding/dotenv
+github.com/spf13/viper/internal/encoding/hcl
+github.com/spf13/viper/internal/encoding/ini
+github.com/spf13/viper/internal/encoding/javaproperties
+github.com/spf13/viper/internal/encoding/json
+github.com/spf13/viper/internal/encoding/toml
+github.com/spf13/viper/internal/encoding/yaml
+# github.com/subosito/gotenv v1.4.1
+## explicit; go 1.18
+github.com/subosito/gotenv
+# github.com/xo/terminfo v0.0.0-20210125001918-ca9a967f8778
+## explicit; go 1.15
+github.com/xo/terminfo
+# go.uber.org/atomic v1.10.0
+## explicit; go 1.18
+go.uber.org/atomic
+# go.uber.org/multierr v1.8.0
+## explicit; go 1.14
+go.uber.org/multierr
+# go.uber.org/zap v1.23.0
+## explicit; go 1.18
+go.uber.org/zap
+go.uber.org/zap/buffer
+go.uber.org/zap/internal
+go.uber.org/zap/internal/bufferpool
+go.uber.org/zap/internal/color
+go.uber.org/zap/internal/exit
+go.uber.org/zap/zapcore
+# golang.org/x/sys v0.0.0-20220704084225-05e143d24a9e
+## explicit; go 1.17
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/plan9
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/term v0.0.0-20220526004731-065cf7ba2467
+## explicit; go 1.17
+golang.org/x/term
+# golang.org/x/text v0.3.7
+## explicit; go 1.17
+golang.org/x/text/cases
+golang.org/x/text/encoding
+golang.org/x/text/encoding/charmap
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/japanese
+golang.org/x/text/encoding/korean
+golang.org/x/text/encoding/simplifiedchinese
+golang.org/x/text/encoding/traditionalchinese
+golang.org/x/text/internal
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/tag
+golang.org/x/text/language
+golang.org/x/text/runes
+golang.org/x/text/transform
+golang.org/x/text/unicode/norm
+golang.org/x/text/width
+# gopkg.in/ini.v1 v1.67.0
+## explicit
+gopkg.in/ini.v1
+# gopkg.in/yaml.v2 v2.4.0
+## explicit; go 1.15
+gopkg.in/yaml.v2
+# gopkg.in/yaml.v3 v3.0.1
+## explicit
+gopkg.in/yaml.v3
