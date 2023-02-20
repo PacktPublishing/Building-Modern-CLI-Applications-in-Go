@@ -1,0 +1,13 @@
+{
+    "cli": {
+        "hostname": "localhost",
+        "port": 8000,
+        "logging": {
+            "level": "debug",
+            "encoding": "json",
+            "outputPaths": [
+                "/tmp/log/audiofile.json"
+            ]
+        }
+    }
+}
