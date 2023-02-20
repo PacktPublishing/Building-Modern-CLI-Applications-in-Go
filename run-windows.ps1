@@ -1,0 +1,1 @@
+go run main.go environment.go file.go process.go timer.go walking.go checkRuntime.go buildChecks.go -tags buildChecks
