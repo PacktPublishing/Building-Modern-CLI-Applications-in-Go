@@ -1,0 +1,10 @@
+environments:
+  test:
+    url: 89.45.23.123
+    port: 1234
+  prod:
+    url: 123.23.45.89
+    port: 5678
+loglevel: 1
+keys:
+  assemblyai: ad915a59802309238234892390482304
