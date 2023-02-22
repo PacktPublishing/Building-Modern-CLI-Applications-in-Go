@@ -14,4 +14,4 @@ services:
         dockerfile: api.Dockerfile
     image: audiofile:api
     ports:
-      - "80:80"
+      - "8000:8000"

@@ -19,8 +19,8 @@ FROM alpine:latest
 # Copy the compiled binary from the build stage to the final stage
 COPY --from=build /audiofile/audiofile .
 
-# Expose port 80
-EXPOSE 80
+# Expose port 8000
+EXPOSE 8000
 
 # Start the audiofile API
 ENTRYPOINT ["./audiofile"]

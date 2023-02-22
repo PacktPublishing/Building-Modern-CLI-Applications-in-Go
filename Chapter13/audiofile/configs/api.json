@@ -1,7 +1,7 @@
 {
     "api": {
         "logLevel": "info",
-        "port": 80,
+        "port": 8000,
         "logging": {
             "level": "debug",
             "encoding": "json",

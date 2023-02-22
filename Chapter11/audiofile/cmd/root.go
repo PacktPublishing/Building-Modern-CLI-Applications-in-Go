@@ -41,5 +41,5 @@ func Configure() {
 	viper.SetConfigType("json")
 	viper.ReadInConfig()
 	viper.SetDefault("cli.hostname", "localhost")
-	viper.SetDefault("cli.port", 80)
+	viper.SetDefault("cli.port", 8000)
 }

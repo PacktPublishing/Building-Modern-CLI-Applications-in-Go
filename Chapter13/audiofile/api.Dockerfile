@@ -9,8 +9,8 @@ COPY . .
 # Download the dependencies
 RUN go mod download
 
-# Expose port 80
-EXPOSE 80
+# Expose port 8000
+EXPOSE 8000
 
 # Build the audiofile application with the pro tag so all features are available
 RUN go build -tags "pro" -o audiofile main.go

@@ -14,6 +14,6 @@ var Verbose *zap.Logger
 func ConfigureTest() {
 	getClient = &ClientMock{}
 	viper.SetDefault("cli.hostname", "testHostname")
-	viper.SetDefault("cli.port", 80)
+	viper.SetDefault("cli.port", 8000)
 	utils.InitCLILogger()
 }

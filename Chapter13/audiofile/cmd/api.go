@@ -38,5 +38,5 @@ func configure() {
 	viper.SetConfigName("api")
 	viper.SetConfigType("json")
 	viper.ReadInConfig()
-	viper.SetDefault("api.port", 80)
+	viper.SetDefault("api.port", 8000)
 }

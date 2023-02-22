@@ -6,7 +6,7 @@ In Chapter 13, Using Containers for Distribution, we start using Docker containe
 
 ## To run the api as a container:
 `docker build -f api.Dockerfile -t audiofile:api .`
-`docker run -rm -p 80:80 audiofile:api`
+`docker run -rm -p 8000:8000 audiofile:api`
 
 ## To run the cli as a container:
 `docker build -f cli.Dockerfile -t audiofile:cli .`

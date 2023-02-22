@@ -19,7 +19,7 @@ var apiCmd = &cobra.Command{
 	./audiofile api`,
 	Run: func(cmd *cobra.Command, args []string) {
 		var port int
-		flag.IntVar(&port, "p", 80, "Port for metadata service")
+		flag.IntVar(&port, "p", 8000, "Port for metadata service")
 		flag.Parse()
 		fmt.Printf("Starting API at http://localhost:%d\nPress Ctrl-C to stop.\n", port)
 		metadataService.Run(port)

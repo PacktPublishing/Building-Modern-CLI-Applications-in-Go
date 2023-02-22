@@ -22,7 +22,7 @@ func ConfigureTest() {
 		Timeout: 15 * time.Second,
 	}
 	viper.SetDefault("cli.hostname", "localhost")
-	viper.SetDefault("cli.port", 80)
+	viper.SetDefault("cli.port", 8000)
 	utils.InitCLILogger()
 }
 
