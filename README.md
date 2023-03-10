@@ -57,3 +57,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to know the Author
 **Marian Montagnino**
 is a Senior Software Engineer at Netflix with over 20 years of experience. Since the early nineties, when her family first got a home computer, she has been using the terminal and command line applications to navigate through text-based systems. In 1995, she held her first job as a SysOp, or system operator, for Real of Mirage BBS in Fair Lawn, NJ. Her early years discovering technology inspired her to continue learning about computers. She received her Dual Computer Science and Mathematics of Operations Research BSc from Rensselaer Polytechnic Institute and her Applied Mathematics MSc from Stevens Institute of Technology.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781804611654">https://packt.link/free-ebook/9781804611654 </a> </p>
